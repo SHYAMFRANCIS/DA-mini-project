@@ -44,3 +44,5 @@ Run the full analysis pipeline using the following command:
 ```bash
 uv run main.py
 ```
+
+To resume this session: gemini --resume 707133ee-b731-48d1-a8fb-1838718715b8
